@@ -1,8 +1,5 @@
 # Lab 3: A* Search for the 8-Puzzle
 
-**Course:** Artificial Intelligence (BSCS 4th Semester)  
-**Topic:** Informed Search - A* Search with Heuristics
-
 ---
 
 ## 1. Problem Representation
