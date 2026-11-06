@@ -1,8 +1,5 @@
 # Lab 2: Uninformed Search — BFS and DFS on a 2D Maze
 
-**Course:** Artificial Intelligence (BSCS 4th Semester)  
-**Topic:** Uninformed Search - Breadth First Search (BFS) & Depth First Search (DFS)
-
 ---
 
 ## 1. Section 7: Compare BFS and DFS
