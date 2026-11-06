@@ -1,9 +1,6 @@
 
 # Practical Lab 1: Hands-On Student Exercises Solution
 
-**Course:** Artificial Intelligence (BSCS 4th Semester)  
-**Topic:** Knowledge-Based System (KBS) & Forward Chaining Trace
-
 ---
 
 ## Exercise 1: Degree Honors Rule
