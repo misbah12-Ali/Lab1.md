@@ -1,5 +1,5 @@
 
-# Practical Lab 1: Hands-On Student Exercises Solution
+# Lab 1:
 
 ---
 
